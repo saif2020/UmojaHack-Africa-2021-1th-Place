@@ -11,7 +11,7 @@ This is our final notebook it will give you 1rd place !
 1. Make Sure that you modify execution type to 'GPU' -
 2. Make Sure that you're working on Tesla P100 Machine
 
-# Leaderboard
+# <a  href="https://zindi.africa/hackathons/umojahack-africa-2021-3-financial-health-challenge-beginner/leaderboard">Leaderboard</a>
 Look for the team name : adatnomerTN
 Rank : 1/463
 
