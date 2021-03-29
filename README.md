@@ -1,6 +1,6 @@
 # UmojaHack Africa 2021 #3: Financial Resilience Challenge 
 It was an Unbelievable WeekEnd For me as I won Challenges#3 in UmojaHack Africa 2021 with my amazing Teammate @ASSAZZIN.
-this repository contains Code Solutions on how to get Top1 Places in Financial Resilience Challenge  . Enjoy !
+this repository contains Code Solutions on how to get Top1 Place in Financial Resilience Challenge  . Enjoy !
 
 # Brief Description
 The objective of this challenge is to to build a machine learning model to predict which individuals across Africa and around the world are most likely to be financially resilient or not., have a look on Zindi.
